@@ -1,0 +1,17 @@
+{
+  "name": "toml-config-parser",
+  "version": "0.1.0",
+  "description": "Parses TOML configuration files into typed JavaScript objects handling tables, arrays, and inline values.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
